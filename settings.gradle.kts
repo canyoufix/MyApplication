@@ -21,3 +21,7 @@ dependencyResolutionManagement {
 
 rootProject.name = "My Application"
 include(":app")
+include(":uiComponents")
+include(":dataStorage")
+include(":networkModule")
+include(":core")
